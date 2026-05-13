@@ -1,0 +1,49 @@
+group,team,confederation
+A,Mexico,CONCACAF
+A,South Africa,CAF
+A,South Korea,AFC
+A,Czech Republic,UEFA
+B,Canada,CONCACAF
+B,Switzerland,UEFA
+B,Qatar,AFC
+B,Bosnia and Herzegovina,UEFA
+C,Brazil,CONMEBOL
+C,Morocco,CAF
+C,Haiti,CONCACAF
+C,Scotland,UEFA
+D,United States,CONCACAF
+D,Paraguay,CONMEBOL
+D,Australia,AFC
+D,Turkey,UEFA
+E,Germany,UEFA
+E,Curacao,CONCACAF
+E,Ivory Coast,CAF
+E,Ecuador,CONMEBOL
+F,Netherlands,UEFA
+F,Japan,AFC
+F,Tunisia,CAF
+F,Sweden,UEFA
+G,Belgium,UEFA
+G,Egypt,CAF
+G,Iran,AFC
+G,New Zealand,OFC
+H,Spain,UEFA
+H,Cape Verde,CAF
+H,Saudi Arabia,AFC
+H,Uruguay,CONMEBOL
+I,France,UEFA
+I,Senegal,CAF
+I,Norway,UEFA
+I,Iraq,AFC
+J,Argentina,CONMEBOL
+J,Algeria,CAF
+J,Austria,UEFA
+J,Jordan,AFC
+K,Portugal,UEFA
+K,Uzbekistan,AFC
+K,Colombia,CONMEBOL
+K,DR Congo,CAF
+L,England,UEFA
+L,Croatia,UEFA
+L,Ghana,CAF
+L,Panama,CONCACAF

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Internal project files
+CLAUDE.md
+AGENTS.md
+explained_phase_by_phase.md
+
+# Session/audit artifacts
+audit_backup_*/
+outputs/reports/
+
+# Large raw Kaggle datasets (download instructions in README)
+data/raw/international_results.csv
+data/raw/elo_ratings.csv
+data/raw/players.csv
+data/raw/goalscorers.csv
+data/raw/shootouts.csv
+
+# Experimental notebooks
+notebooks/05b_dixon_coles_colab_refit.ipynb
+
+# Env / OS
+.env
+.DS_Store
+Thumbs.db
+*.log
