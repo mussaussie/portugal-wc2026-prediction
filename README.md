@@ -6,6 +6,10 @@ Three independent models estimate the probability of Portugal winning the FIFA W
 
 ---
 
+![Portugal WC2026 Prediction Analysis](outputs/Image2.png)
+
+---
+
 ## Result
 
 | Model | Portugal | Spain | Argentina | France |
@@ -16,8 +20,6 @@ Three independent models estimate the probability of Portugal winning the FIFA W
 | **Ensemble** | **~3.3%** | ~28.4% | ~18.3% | ~11.1% |
 
 Portugal is a ~30-to-1 dark horse — credible, not a favourite.
-
-![Win Probability Comparison](outputs/charts/win_probability_comparison.png)
 
 ---
 
