@@ -41,6 +41,8 @@ Trained on ~32,000 international matches (2000–2025). Features: ELO diff, form
 
 ## Portugal's Path
 
+![Portugal Tournament Path](outputs/port_path.png)
+
 ![Portugal Stage Breakdown](outputs/charts/portugal_path_comparison.png)
 
 All three models agree: **Round of 32 is Portugal's most likely exit point (~33–35%).**  
